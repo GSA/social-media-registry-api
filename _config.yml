@@ -1,0 +1,6 @@
+name: Developer Hub
+markdown: maruku
+pygments: true
+safe: true
+baseurl: /
+exclude: ['.ruby-version', 'node_modules', 'package.json', 'bower.json']
