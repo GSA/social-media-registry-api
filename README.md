@@ -1,8 +1,3 @@
-Public Data Platform
-====================
-
-
-
 This is the documentation repository for the Social Media Registry API, maintained by the General Services Administration dataset served by the Public Data Platform API.
 
 Check out this API documentation at http://gsa.github.io/social-media-registry-api/
