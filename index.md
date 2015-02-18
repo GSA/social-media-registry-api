@@ -6,7 +6,7 @@ layout: default
 
 ### Overview
 
-The [Social Media Registry](http://www.usa.gov/Contact/verify-social-media.shtml) is an official source of information about social media accounts that represent official U.S. federal government agencies, elected officials, or members of the President’s Cabinet.
+The [Social Media Registry](http://www.usa.gov/Contact/verify-social-media.shtml) is an official source of information about social media accounts that represent official U.S. federal government agencies, elected officials, or members of the President’s Cabinet. 
 
 If you work for the federal government and have a .gov or .mil e-mail address, you can register official U.S. federal accounts at [DigitalGov.gov](http://www.digitalgov.gov/services/social-media-registry/).
 
